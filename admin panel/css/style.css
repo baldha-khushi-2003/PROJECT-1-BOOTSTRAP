@@ -1,0 +1,214 @@
+body{
+    background-color: #151A30;
+}
+.bg-darkblue{
+    background-color: #222B45;
+}
+.bg-button{
+    background-color: #151A30;
+}
+.button-darkblue{
+    background-color: #222B45!important;
+}
+.span-green{
+    color: #00D68F;
+}
+.span-red{
+    color: #FF3D71;
+}
+.progess{
+    width: 11px;
+    height: 9px;
+    background-color: #000000;
+}
+.progess1{
+    width: 11px;
+    height: 15px;
+    background-color: #FF3D71;
+}
+.border1{
+    border-bottom: 1px solid #151A30!important;
+}
+.btn-blue{
+    background-color: #151A30;
+}
+.text-gray{
+    color: #8F9BB3;
+}
+ul, ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.z-index{
+    z-index: 999;
+}
+.navbar{
+    box-shadow:  0 .5rem 1rem 0 #151828;
+}
+.accordion-button{
+    box-shadow: none!important;
+}
+.accordion-button:hover {
+    background-color: #222B45;
+}
+.accordion-button:not(.collapsed){
+    background-color: #222B45;
+}
+.accordion-button::after{
+    color: white!important;
+}
+.scroll{
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    overflow-y: scroll;
+}
+.scrollbar1{
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.scrollbar2{
+    width: 100%;
+    height: 465px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+::-webkit-scrollbar{
+    width: 5px;
+    background-color: #1c2237;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #0a0c0f;
+    height: 25px;
+    border-radius: 10px;
+}
+.cards .box-1{
+    width: 100%;
+    height: 100px;
+    background-color: #222B45;
+}
+
+.box-1 .sub-box{
+    width: 100%;
+    height: 85px;
+    line-height: 85px;
+    background-color: #3366FF;
+}
+.box-1 button{
+    background-color: #FF5B81;
+}
+.area-chart .card{
+    width: 100%;
+    height: 300px;
+    background-color: #222B45;
+}
+.chart-header{
+    width: 100%;
+    height: 55px;
+    margin-top: 20px;
+    background-color: #222B45;
+    padding: 20px;
+    top: 0;
+}
+.chart-header1{
+    width: 100%;
+    height: 50px;
+    background-color: #222B45;
+    padding: 15px;
+}
+.nd-items-list{
+    width: 100%;
+    height: 320px;
+    background-color: #222B45;
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
+.ecommerce{
+    width: 100%;
+    height: 100%;
+    background-color: #222B45;
+}
+.container{
+    background-color: #151A30;
+    padding: 24px 50px;
+}
+text.apexcharts-text{
+    fill: white;
+}
+.apexcharts-toolbar{
+    display: none!important;
+}
+.apexcharts-legend-text{
+    color: white!important;
+    font-size: 15px!important;
+}
+.america-order{
+    padding: 16px 25px;
+    background-color: #222B45;
+}
+.map-chart span{
+    font-size: 12px;
+}
+.apexcharts-text{
+    font-size: 14px!important;
+}
+.headers{
+    padding: 25px 16px;
+    width: 100%;
+}
+.subscribe{
+    width: 100%;
+    height: 100%;
+    background-color: #222B45;
+    padding: 25px;
+}
+.linebar{
+    width: 100%;
+    background-color: #192038;
+    height: 28px;
+}
+.line-value, .linevalue1, .linevalue2{
+    width: 70%;
+    background-color:#0a0c0f;
+    height: 28px;
+}
+.progress-value1{
+    width: 30%;
+}
+.progress-value2{
+    width: 55%;
+}
+.nd-body p{
+    font-size: 12px;
+}
+.Visitorspie{
+    background-color: #1e253fca;
+    box-shadow:  0 4px 14px 0 #8f9bb30f;
+    padding: 15px;
+    width: 355px;
+    height: 100%;
+    top: 0;
+    right: 0;
+}
+text{
+    fill: gray!important;
+}
+footer{
+    padding: 15px;
+    background-color: #222B45;
+}
+a{
+    color: #598BFF;
+    font-weight: 700;
+}
+footer .icon a i:hover{
+    color: white;
+}
+.item .nd-list-item span{
+    font-size: 13px;
+}
